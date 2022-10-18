@@ -1,5 +1,5 @@
-# Ifood Potencia Tech
-Repósitorio criado com finalidade de registrar os aprendizados durante o bootcamp Potencia Tech Ifood.
+# Ifood Potência Tech
+Repositório criado com finalidade de registrar os aprendizados durante o bootcamp Potencia Tech Ifood.
 
 ## Trilha do bootcamp Ifood - DIO
 
