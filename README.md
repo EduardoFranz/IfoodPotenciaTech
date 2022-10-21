@@ -10,7 +10,7 @@ Repositório criado com finalidade de registrar os aprendizados durante o bootca
 **Conhecendo a linguagem de programação java**
 - Introdução a plataforma java
 - Ambiente e desenvolvimento java
-- Aprendendo a sintaxe java
+- Aprendendo a sintaxe java (anatomia das classes, tipos e variáveis, operadores, métodos, escopo, palavras reservadas, java doc, terminal e argumentos)
 - Lógica condicional e Controle de Fluxos em Java - [acesse o curso](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42)
 - Estruturas de repetição e Arrays em Java - [acesse o curso](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c)
 - Entendendo Métodos Java - [acesse o curso](https://web.dio.me/course/entendendo-metodos-java/learning/1d32857c-8137-4b87-8a1c-474300f71648)
